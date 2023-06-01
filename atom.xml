@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Lisiur's Blog]]></title>
-  <link href="https://lisiur.com/atom.xml" rel="self"/>
-  <link href="https://lisiur.com/"/>
-  <updated>2023-06-01T13:53:37+08:00</updated>
-  <id>https://lisiur.com/</id>
+  <link href="https://lisiur.github.io/atom.xml" rel="self"/>
+  <link href="https://lisiur.github.io/"/>
+  <updated>2023-06-01T13:56:54+08:00</updated>
+  <id>https://lisiur.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
     
@@ -14,9 +14,9 @@
   
   <entry>
     <title type="html"><![CDATA[test]]></title>
-    <link href="https://lisiur.com/16855979252274.html"/>
+    <link href="https://lisiur.github.io/16855979252274.html"/>
     <updated>2023-06-01T13:38:45+08:00</updated>
-    <id>https://lisiur.com/16855979252274.html</id>
+    <id>https://lisiur.github.io/16855979252274.html</id>
     <content type="html"><![CDATA[
 
 ]]></content>
@@ -24,9 +24,9 @@
   
   <entry>
     <title type="html"><![CDATA[For test]]></title>
-    <link href="https://lisiur.com/16855978738898.html"/>
+    <link href="https://lisiur.github.io/16855978738898.html"/>
     <updated>2023-06-01T13:37:53+08:00</updated>
-    <id>https://lisiur.com/16855978738898.html</id>
+    <id>https://lisiur.github.io/16855978738898.html</id>
     <content type="html"><![CDATA[
 
 ]]></content>
